@@ -1,0 +1,22 @@
+REGISTRY HANDLER CLASS CODE (occmod.handlers.RegistryHandler)
+
+
+--------------------------------------------------------------
+
+
+package occmod.handlers;
+
+import net.minecraft.item.Item;
+import net.minecraftforge.event.RegistryEvent;
+
+public class RegistryHandler {
+    
+    public static void Client() {
+
+    }
+    
+    public static void Common() {
+
+    }
+    
+}

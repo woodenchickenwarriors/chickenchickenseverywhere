@@ -1,0 +1,9 @@
+Json File ------
+
+
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "occ:blocks/occ_block"
+    }
+}

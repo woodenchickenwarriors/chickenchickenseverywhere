@@ -1,0 +1,13 @@
+GARDEN HOE JSON------------
+
+
+
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "occ:items/occhoe"
+    }
+}
+
+
+

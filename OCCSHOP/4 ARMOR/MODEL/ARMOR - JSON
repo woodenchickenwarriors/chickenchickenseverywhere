@@ -1,0 +1,53 @@
+JSON FILES FOR AMOUR-- ALL IN ONE FILE--
+
+
+
+
+
+Leggings--
+
+
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "occ:items/occ_leggings"
+    }
+}
+
+
+
+Chest--
+
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "occ:items/occ_chestplate"
+    }
+}
+
+
+
+Helmet--
+
+
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "occ:items/occ_helmet"
+    }
+}
+
+
+
+
+Boots--
+
+
+
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "occ:items/occ_boots"
+    }
+}
+

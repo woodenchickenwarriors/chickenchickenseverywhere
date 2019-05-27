@@ -1,0 +1,102 @@
+//WELCOME TO THE BLOCK SECTION OF THE OCC SHOP! 
+//HERE YOU CAN GET THE CODE FOR CREATING YOUR DREAM BLOCK. 
+//IT CAN BE WHATEVER YOU WANT, A ORE, A PILLOW, OR ANYTHING!
+// GO AHEAD, WHAT ARE YOU WATING FOR?
+
+
+//-------------BlockInit Class Code--(occmod\init\BlockInit.java)--------------
+
+
+
+
+package occmod.init;
+
+import occmod.Main;
+import occmod.Reference;
+import occmod.init.blocks.CustomOre;
+import net.minecraft.block.Block;
+import net.minecraft.client.Minecraft;
+import net.minecraft.client.renderer.block.model.ModelResourceLocation;
+import net.minecraft.init.Blocks;
+import net.minecraft.item.Item;
+import net.minecraft.item.ItemBlock;
+import net.minecraft.item.ItemStack;
+import net.minecraftforge.fml.common.registry.GameRegistry;
+
+//initialize block
+
+public class BlockInit {
+
+/** ------------------------------------------------------------------------------------------------------------------------------- **/
+    
+    //GIVING YOUR BLOCK A CRAFTING RECIPE
+    
+        public static void Recipitate() {
+            GameRegistry.addRecipe(new ItemStack(occ_block, 1), new Object[]
+                    {
+                            "   ",
+                            "   ",
+                            "   ",
+                        'Y', ItemInit.occ_ingot,
+                        'X', Blocks.SAND,
+                    }); 
+        }
+        
+    // -----------------------------------
+    
+/** ------------------------------------------------------------------------------------------------------------------------------- **/
+        
+    //TELLING MINECRAFT ABOUT YOUR BLOCK    
+        
+        public static Block occ_block;
+    
+        public static void init() {
+            occ_block = new CustomOre("occ_block", hardness, resistance, harvestLevel);
+        }
+        
+    // -----------------------------------
+        
+/** ------------------------------------------------------------------------------------------------------------------------------- **/
+    
+    // PUT YOUR BLOCK IN MINECRAFT WITH ICONS AND REGISTERING IT
+        
+    public static void register() {
+
+        registerBlock(occ_block);
+        
+    }
+    
+    public static void registerBlock(Block block) {
+        GameRegistry.register(block);
+        block.setCreativeTab(CreativeTabs.occtab);
+        ItemBlock item = new ItemBlock(block);
+        item.setRegistryName(block.getRegistryName());
+        GameRegistry.register(item);
+        
+        }
+    
+    public static void registerRenders() {
+        registerRender(occ_block);
+    }
+    
+    public static void registerRender(Block block) {
+        Minecraft.getMinecraft().getRenderItem().getItemModelMesher()
+        .register(Item.getItemFromBlock(block), 0, new ModelResourceLocation(Reference.MOD_ID + ":" + 
+        block.getUnlocalizedName().substring(5)));
+        
+        
+    }
+    
+    //------------------------------------------------
+    
+/** ------------------------------------------------------------------------------------------------------------------------------- **/
+    
+}
+       
+   
+       
+       
+       
+       
+
+          

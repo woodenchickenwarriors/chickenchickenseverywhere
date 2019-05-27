@@ -1,0 +1,9 @@
+ITEM JSON -
+
+
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "occ:items/occitem_ingot"
+    }
+}

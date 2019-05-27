@@ -1,0 +1,8 @@
+BLOCKSTATES JSON --------
+
+
+{
+    "variants": {
+        "normal": { "model": "occ:occ_block" }
+    }
+}

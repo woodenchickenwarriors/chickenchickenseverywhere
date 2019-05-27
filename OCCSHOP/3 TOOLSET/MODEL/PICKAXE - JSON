@@ -1,0 +1,10 @@
+PIC JSON----------
+
+
+
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "occ:items/occpic"
+    }
+}
