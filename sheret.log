@@ -1,0 +1,11 @@
+2019/05/28 10:40:22 Sheret v1.0 serving build\libs\ on HTTP port: 8100
+2019/05/28 10:40:22 -- Press CTRL-C to terminate --
+2019/05/28 10:41:14 10.25.1.2:57850 GET /
+2019/05/28 10:41:14 10.25.1.2:57850 GET /favicon.ico
+2019/05/28 10:45:09 Sheret v1.0 serving build\libs\ on HTTP port: 8100
+2019/05/28 10:45:09 -- Press CTRL-C to terminate --
+2019/05/28 10:45:14 10.25.1.2:57934 GET /
+2019/05/28 10:48:15 Sheret v1.0 serving build\libs\ on HTTP port: 8100
+2019/05/28 10:48:15 -- Press CTRL-C to terminate --
+2019/05/28 10:48:30 10.25.1.2:57966 GET /
+2019/05/28 10:48:31 10.25.1.2:57966 GET /occ-mod_v1.0_mc1.11.2.jar
