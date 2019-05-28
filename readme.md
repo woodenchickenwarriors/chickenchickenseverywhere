@@ -123,3 +123,5 @@ https://web.archive.org/web/20160810090356/http://www.minecraftforge.net/wiki/Ba
 Cheese Mod - Compiling
 
 https://www.google.com/search?q=compile+minecraft+mod&oq=compile+minecraft+mod&aqs=chrome..69i57j0.7978j1j1&sourceid=chrome&ie=UTF-8#kpvalbx=1
+
+https://github.com/M4thG33k/Gemulation/blob/master/src/main/java/com/m4thg33k/gemulation/Gemulation.java
