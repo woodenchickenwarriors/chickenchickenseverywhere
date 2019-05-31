@@ -10,6 +10,10 @@ Run: "build.bat" and follow instructions.
 
 https://www.udemy.com/minecraft-modding-java/learn/lecture/10603704#overview
 
+https://skmedix.github.io/ForgeJavaDocs/javadoc/forge/1.11.2-13.20.0.2228/
+
+https://mcforge.readthedocs.io/en/latest/blocks/interaction/
+
 ## Gradle Tasks
 
 ```gradle
@@ -107,6 +111,22 @@ To see more detail about a task, run gradlew help --task <task>
 
 ```
 
+## Coding notes:
+
+Feather Falling on Block
+https://github.com/geekman9097/Logisticraft-1.07.10/blob/b5a4427364dc51414d8b0e0874e95f7283ea6264/src/java/com/sinesection/logisticraft/block/BlockRubber.java
+
+https://www.minecraftforge.net/forum/topic/16663-172-make-player-quotbouncequot-when-they-touch-block/
+
+Flammable
+
+https://github.com/ueyudiud/FLE/blob/1.10.2/src/main/java/fle/core/blocks/building/BlockWindow1.java
+
+Dropping alternates (needs silktouch)
+
+https://github.com/YoungGT/EasyCraft/blob/1417cfe1942d7a09fd7b66a7d8c11e417e29cffe/src/main/java/com/github/YoungGT/EasyCraft/block/BlockSlimeBlock.java
+https://github.com/wuppy29/WuppyMods/blob/6c9a81662c1ce6b52994689766e458ea6bd36c5b/Slime%20Dungeon/sd_common/com/wuppy/slimedungeons/blocks/BlockSlimeBlock.java
+
 ## Other Setups
 
 forge-1.11.2-13.20.1.2588-installer.jar
@@ -117,9 +137,25 @@ https://minecraft.gamepedia.com/Tutorials/Setting_up_a_Minecraft_Forge_server
 
 ## References
 
-
+http://www.kegel.com/minecraft/
 https://web.archive.org/web/20160810090356/http://www.minecraftforge.net/wiki/Basic_Modding
 
 Cheese Mod - Compiling
 
 https://www.google.com/search?q=compile+minecraft+mod&oq=compile+minecraft+mod&aqs=chrome..69i57j0.7978j1j1&sourceid=chrome&ie=UTF-8#kpvalbx=1
+
+Other Mods 
+
+https://github.com/M4thG33k/Gemulation/blob/master/src/main/java/com/m4thg33k/gemulation/Gemulation.java  
+https://github.com/Atraxi/PandemiCraft/tree/0cc18b1b9187693dc0d51fa7fe9f9763c52e6c4d/src/main/java/eviltalkingpie/pandemicraft  
+https://github.com/LemADEC/AliensVsPredator-1/blob/e4b691efb5f5111348df8a0bd7c9bd8d5dd1eb89/src/main/java/org/avp/BlockHandler.java  
+https://github.com/search?p=2&q=super%28Material.ROCK%29%3B+setResistance+slime&type=Code  
+
+## More Modern Stuff
+
+https://github.com/SilentChaos512/Silent-Gear
+
+## Fabric Loader
+Fabric Modloader 1.14.2/1.14.1 (Play Your Favorite Mods in the Newest Version)
+
+http://www.mc-mod.net/fabric-modloader/
