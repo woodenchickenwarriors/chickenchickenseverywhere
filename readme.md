@@ -12,6 +12,9 @@ https://www.udemy.com/minecraft-modding-java/learn/lecture/10603704#overview
 
 https://skmedix.github.io/ForgeJavaDocs/javadoc/forge/1.11.2-13.20.0.2228/
 
+https://github.com/Hetal728/MinecraftServer
+https://github.com/TorchPowered/mc-dev/blob/1f81d9e8abb58c3a0d8454eb93c3c4f013a4d1bc/net/minecraft/
+
 https://mcforge.readthedocs.io/en/latest/blocks/interaction/
 
 ## Gradle Tasks

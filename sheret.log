@@ -9,3 +9,39 @@
 2019/05/28 10:48:15 -- Press CTRL-C to terminate --
 2019/05/28 10:48:30 10.25.1.2:57966 GET /
 2019/05/28 10:48:31 10.25.1.2:57966 GET /occ-mod_v1.0_mc1.11.2.jar
+2019/05/31 13:38:53 Sheret v1.0 serving build\libs\ on HTTP port: 8100
+2019/05/31 13:38:53 -- Press CTRL-C to terminate --
+2019/05/31 13:39:23 10.25.1.2:57770 GET /
+2019/05/31 13:39:23 10.25.1.2:57770 GET /favicon.ico
+2019/05/31 13:39:36 10.25.1.2:57770 GET /occ-mod_v1.0_mc1.11.2.jar
+2019/05/31 14:11:25 Sheret v1.0 serving build\libs\ on HTTP port: 8100
+2019/05/31 14:11:25 -- Press CTRL-C to terminate --
+2019/05/31 14:12:27 10.25.1.2:58010 GET /
+2019/05/31 14:12:30 10.25.1.2:58010 GET /occ-mod_v1.0_mc1.11.2.jar
+2019/05/31 14:32:36 Sheret v1.0 serving build\libs\ on HTTP port: 8100
+2019/05/31 14:32:36 -- Press CTRL-C to terminate --
+2019/05/31 14:32:50 10.25.1.2:58208 GET /occ-mod_v1.0_mc1.11.2.jar
+2019/05/31 14:34:38 10.25.1.2:58208 GET /
+2019/05/31 14:34:40 10.25.1.2:58208 GET /
+2019/05/31 14:38:48 Sheret v1.0 serving build\libs\ on HTTP port: 8100
+2019/05/31 14:38:48 -- Press CTRL-C to terminate --
+2019/05/31 14:38:58 10.25.1.2:58300 GET /
+2019/05/31 14:38:59 10.25.1.2:58300 GET /
+2019/05/31 14:39:00 10.25.1.2:58300 GET /favicon.ico
+2019/05/31 14:39:02 10.25.1.2:58300 GET /occ-mod_v1.0_mc1.11.2.jar
+2019/05/31 15:19:13 Sheret v1.0 serving build\libs\ on HTTP port: 8100
+2019/05/31 15:19:13 -- Press CTRL-C to terminate --
+2019/05/31 15:20:33 10.25.1.2:58674 GET /
+2019/05/31 15:20:38 10.25.1.2:58674 GET /occ-mod_v1.0_mc1.11.2.jar
+2019/05/31 15:20:59 10.25.1.2:58674 GET /
+2019/05/31 15:21:02 10.25.1.2:58674 GET /occ-mod_v1.0_mc1.11.2.jar
+2019/06/03 07:29:17 Sheret v1.0 serving build\libs\ on HTTP port: 8100
+2019/06/03 07:29:17 -- Press CTRL-C to terminate --
+2019/06/03 07:29:29 10.25.1.2:57882 GET /
+2019/06/03 07:29:29 10.25.1.2:57882 GET /favicon.ico
+2019/06/03 07:29:31 10.25.1.2:57882 GET /occ-mod_v1.0_mc1.11.2.jar
+2019/06/03 14:26:56 Sheret v1.0 serving build\libs\ on HTTP port: 8100
+2019/06/03 14:26:56 -- Press CTRL-C to terminate --
+2019/06/03 14:34:01 10.25.1.2:38178 GET /
+2019/06/03 14:34:02 10.25.1.2:38178 GET /favicon.ico
+2019/06/03 14:34:04 10.25.1.2:38178 GET /occ-mod_v1.0_mc1.11.2.jar
