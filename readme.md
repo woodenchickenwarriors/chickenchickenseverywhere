@@ -147,18 +147,33 @@ Cheese Mod - Compiling
 
 https://www.google.com/search?q=compile+minecraft+mod&oq=compile+minecraft+mod&aqs=chrome..69i57j0.7978j1j1&sourceid=chrome&ie=UTF-8#kpvalbx=1
 
-Other Mods 
+### Other Mods 
 
 https://github.com/M4thG33k/Gemulation/blob/master/src/main/java/com/m4thg33k/gemulation/Gemulation.java  
 https://github.com/Atraxi/PandemiCraft/tree/0cc18b1b9187693dc0d51fa7fe9f9763c52e6c4d/src/main/java/eviltalkingpie/pandemicraft  
 https://github.com/LemADEC/AliensVsPredator-1/blob/e4b691efb5f5111348df8a0bd7c9bd8d5dd1eb89/src/main/java/org/avp/BlockHandler.java  
 https://github.com/search?p=2&q=super%28Material.ROCK%29%3B+setResistance+slime&type=Code  
 
+### Mr. Crayfish 
+
+Another older 1.7 walkthrough:
+
+* https://www.youtube.com/playlist?list=PLy11IosblXIExa6zzhjhYNXeBW9o6FhPU
+
+Other Mr. Crayfish stuff (current as 2019)
+
+* https://www.youtube.com/watch?v=9OFz4yZtQzU
+* https://www.planetminecraft.com/member/mr_crayfish/
+* https://github.com/MrCrayfish?tab=repositories
+
 ## More Modern Stuff
 
 https://github.com/SilentChaos512/Silent-Gear
 
+
+
 ## Fabric Loader
+
 Fabric Modloader 1.14.2/1.14.1 (Play Your Favorite Mods in the Newest Version)
 
 http://www.mc-mod.net/fabric-modloader/
