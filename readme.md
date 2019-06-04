@@ -143,9 +143,6 @@ https://minecraft.gamepedia.com/Tutorials/Setting_up_a_Minecraft_Forge_server
 http://www.kegel.com/minecraft/
 https://web.archive.org/web/20160810090356/http://www.minecraftforge.net/wiki/Basic_Modding
 
-Cheese Mod - Compiling
-
-https://www.google.com/search?q=compile+minecraft+mod&oq=compile+minecraft+mod&aqs=chrome..69i57j0.7978j1j1&sourceid=chrome&ie=UTF-8#kpvalbx=1
 
 ### Other Mods 
 
@@ -156,9 +153,14 @@ https://github.com/search?p=2&q=super%28Material.ROCK%29%3B+setResistance+slime&
 
 ### Mr. Crayfish 
 
-Another older 1.7 walkthrough:
+Another older 1.7 walkthrough: (cheesemod)
 
 * https://www.youtube.com/playlist?list=PLy11IosblXIExa6zzhjhYNXeBW9o6FhPU
+* Cheese Mod - Compiling - https://www.google.com/search?q=compile+minecraft+mod&oq=compile+minecraft+mod&aqs=chrome..69i57j0.7978j1j1&sourceid=chrome&ie=UTF-8#kpvalbx=1
+
+Another older 1.8 walkthrough:
+
+* https://www.youtube.com/playlist?list=PLy11IosblXIFDFAT3wz_5Nve05wIVKFSJ
 
 Other Mr. Crayfish stuff (current as 2019)
 
@@ -168,12 +170,18 @@ Other Mr. Crayfish stuff (current as 2019)
 
 ## More Modern Stuff
 
-https://github.com/SilentChaos512/Silent-Gear
+### Modern Tutorials
 
+minecraft mod tutorial 1.13.2
 
+* https://www.youtube.com/playlist?list=PLiDUvCGH5WEUcxyUKxHpQpDuinaiNp3it
 
-## Fabric Loader
+### Interesting mods
+
+* https://github.com/SilentChaos512/Silent-Gear
+
+## Fabric Loader/ Cross Version Modloader
 
 Fabric Modloader 1.14.2/1.14.1 (Play Your Favorite Mods in the Newest Version)
 
-http://www.mc-mod.net/fabric-modloader/
+* http://www.mc-mod.net/fabric-modloader/
