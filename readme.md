@@ -151,6 +151,11 @@ https://github.com/Atraxi/PandemiCraft/tree/0cc18b1b9187693dc0d51fa7fe9f9763c52e
 https://github.com/LemADEC/AliensVsPredator-1/blob/e4b691efb5f5111348df8a0bd7c9bd8d5dd1eb89/src/main/java/org/avp/BlockHandler.java  
 https://github.com/search?p=2&q=super%28Material.ROCK%29%3B+setResistance+slime&type=Code  
 
+### 1.12
+
+Got-Wood 1.12  
+* https://github.com/MinecraftModDevelopmentMods/Got-Wood
+
 ### Mr. Crayfish 
 
 Another older 1.7 walkthrough: (cheesemod)
