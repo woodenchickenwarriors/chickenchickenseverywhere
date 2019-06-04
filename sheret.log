@@ -45,3 +45,20 @@
 2019/06/03 14:34:01 10.25.1.2:38178 GET /
 2019/06/03 14:34:02 10.25.1.2:38178 GET /favicon.ico
 2019/06/03 14:34:04 10.25.1.2:38178 GET /occ-mod_v1.0_mc1.11.2.jar
+2019/06/03 14:45:12 Sheret v1.0 serving build\libs\ on HTTP port: 8100
+2019/06/03 14:45:12 -- Press CTRL-C to terminate --
+2019/06/03 14:45:43 10.25.1.2:38282 GET /occ-mod_v1.0_mc1.11.2.jar
+2019/06/03 15:09:17 Sheret v1.0 serving build\libs\ on HTTP port: 8100
+2019/06/03 15:09:17 -- Press CTRL-C to terminate --
+2019/06/03 15:09:23 10.25.1.2:38538 GET /occ-mod_v1.0_mc1.11.2.jar
+2019/06/03 17:31:39 Sheret v1.0 serving build\libs\ on HTTP port: 8100
+2019/06/03 17:31:39 -- Press CTRL-C to terminate --
+2019/06/03 17:32:00 10.25.1.2:39052 GET /occ-mod_v1.0_mc1.11.2.jar
+2019/06/03 18:16:13 Sheret v1.0 serving build\libs\ on HTTP port: 8100
+2019/06/03 18:16:13 -- Press CTRL-C to terminate --
+2019/06/03 18:16:21 10.25.1.2:39190 GET /
+2019/06/03 18:16:23 10.25.1.2:39190 GET /occ-mod_v1.0_mc1.11.2.jar
+2019/06/03 20:03:27 Sheret v1.0 serving build\libs\ on HTTP port: 8100
+2019/06/03 20:03:27 -- Press CTRL-C to terminate --
+2019/06/03 20:04:12 10.25.1.2:39418 GET /
+2019/06/03 20:04:14 10.25.1.2:39418 GET /occ-mod_v1.0_mc1.11.2.jar

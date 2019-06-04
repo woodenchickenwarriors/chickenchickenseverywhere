@@ -37,7 +37,43 @@ public class BlockInit {
                             "YY",
                         'Y', Items.FEATHER,
                     });
-            GameRegistry.addRecipe(new ItemStack(pillow_block_black, 1), new Object[] {"YZ",'Y', Items.FEATHER,'Z', BlockInit.pillow_block,});
+            ItemStack inkSack = new ItemStack(Items.DYE, 1, 0);
+            ItemStack redDye = new ItemStack(Items.DYE, 1, 1);
+            ItemStack cactusGreen = new ItemStack(Items.DYE, 1, 2);
+            ItemStack cocoaBeans = new ItemStack(Items.DYE, 1, 3);
+            ItemStack lapisLazula = new ItemStack(Items.DYE, 1, 4);
+            ItemStack purpleDye = new ItemStack(Items.DYE, 1, 5);
+            ItemStack cyanDye = new ItemStack(Items.DYE, 1, 6);
+            ItemStack lightGrayDye = new ItemStack(Items.DYE, 1, 7);
+            ItemStack grayDye = new ItemStack(Items.DYE, 1, 8);
+            ItemStack pinkDye = new ItemStack(Items.DYE, 1, 9);
+            ItemStack limeDye = new ItemStack(Items.DYE, 1, 10);
+            ItemStack dandelionYellow = new ItemStack(Items.DYE, 1, 11);
+            ItemStack lightBlueDye = new ItemStack(Items.DYE, 1, 12);
+            ItemStack magentaDye = new ItemStack(Items.DYE, 1, 13);
+            ItemStack orangeDye = new ItemStack(Items.DYE, 1, 14);
+            ItemStack boneMeal = new ItemStack(Items.DYE, 1, 15); 
+            
+            
+            
+            GameRegistry.addShapelessRecipe(new ItemStack(pillow_block_black, 1), new Object[] {inkSack, BlockInit.pillow_block,});
+            GameRegistry.addShapelessRecipe(new ItemStack(pillow_block_red, 1), new Object[] { redDye, BlockInit.pillow_block,});
+            GameRegistry.addShapelessRecipe(new ItemStack(pillow_block_green, 1), new Object[] {cactusGreen, BlockInit.pillow_block,});
+            GameRegistry.addShapelessRecipe(new ItemStack(pillow_block_brown, 1), new Object[] {cocoaBeans, BlockInit.pillow_block,});
+            GameRegistry.addShapelessRecipe(new ItemStack(pillow_block_blue, 1), new Object[] {lapisLazula, BlockInit.pillow_block,});
+            GameRegistry.addShapelessRecipe(new ItemStack(pillow_block_purple, 1), new Object[] {purpleDye, BlockInit.pillow_block,});
+            GameRegistry.addShapelessRecipe(new ItemStack(pillow_block_cyan, 1), new Object[] {cyanDye, BlockInit.pillow_block,});
+            GameRegistry.addShapelessRecipe(new ItemStack(pillow_block_silver, 1), new Object[] {lightGrayDye,  BlockInit.pillow_block,});
+            GameRegistry.addShapelessRecipe(new ItemStack(pillow_block_gray, 1), new Object[] {grayDye, BlockInit.pillow_block,});
+            GameRegistry.addShapelessRecipe(new ItemStack(pillow_block_pink, 1), new Object[] {pinkDye, BlockInit.pillow_block,});
+            GameRegistry.addShapelessRecipe(new ItemStack(pillow_block_lime, 1), new Object[] {limeDye, BlockInit.pillow_block,});
+            GameRegistry.addShapelessRecipe(new ItemStack(pillow_block_yellow, 1), new Object[] {dandelionYellow, BlockInit.pillow_block,});
+            GameRegistry.addShapelessRecipe(new ItemStack(pillow_block_light_blue, 1), new Object[] {lightBlueDye, BlockInit.pillow_block,});
+            GameRegistry.addShapelessRecipe(new ItemStack(pillow_block_magenta, 1), new Object[] {magentaDye, BlockInit.pillow_block,});
+            GameRegistry.addShapelessRecipe(new ItemStack(pillow_block_orange, 1), new Object[] {orangeDye, BlockInit.pillow_block,});
+            GameRegistry.addShapelessRecipe(new ItemStack(pillow_block_white, 1), new Object[] {boneMeal, BlockInit.pillow_block,});
+            
+            
         }
 
     // -----------------------------------
